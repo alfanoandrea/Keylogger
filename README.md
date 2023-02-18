@@ -1,2 +1,2 @@
 # Keylogger
-Log your keyboard!
+Simple keylogger in python!
